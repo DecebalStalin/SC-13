@@ -1,0 +1,17 @@
+#ignore misc BYOND files
+Thumbs.db
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+*.backup
+*.dmm.before
+*.cache
+data/
+cfg/
+tmp/
+tools/Runtime Condenser/Input.txt
+tools/Runtime Condenser/Output.txt
+tools/MapDaemon/logs/*.txt
+.vscode/*
